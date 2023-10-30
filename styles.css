@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Libre Baskerville', serif;
+}
+.carousel-item img{
+    width: 100%;
+    height: 80vh;
+}
+.card-image img{
+    width: 175px;
+    height: 175px;
+    border-radius: 100px; 
+}
